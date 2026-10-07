@@ -8,6 +8,7 @@ I am interested in business-focused AI evaluation: checking claims, comparing re
 
 | Case | What I did | Skills shown |
 | --- | --- | --- |
+| [Green Park: integrated business planning and funding readiness](greenpark-business-planning.md) | Delivered a business plan, financial model and investor/lender materials; reconciled collection timing and creditor cash flows. Includes an anonymized worksheet and decision-gate excerpt. | Financial modelling, cash-flow analysis, document validation, requirements clarification, executive communication. |
 | [Proqure: from stakeholder scenarios to platform requirements](proqure-business-analysis.md) | Mapped supplier, buyer, and back-office needs into a phased product requirements document. | Stakeholder analysis, scenario design, requirements, prioritization, risk reasoning. |
 | [QED / Nomadiq / QSHIP: scaling a logistics model](logistics-growth-strategy.md) | Used operating history and market research to develop an asset-light expansion strategy and a later business plan. | Strategy, operations, evidence synthesis, growth tradeoffs, forecasting discipline. |
 
